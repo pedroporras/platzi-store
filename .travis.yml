@@ -12,7 +12,7 @@ script:
   - yarn build
 
 notifications:
-  slack: nmk-software:xaOUI6cPbSGZpcAxyQ9uGsJh
+  
   email:
     recipients:
       - fmpedroporras@gmail.com
